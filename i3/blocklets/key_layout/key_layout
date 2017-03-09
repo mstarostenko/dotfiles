@@ -1,0 +1,7 @@
+#!/bin/bash
+# echo test
+# echo `./xkblayout-state print testtest`;
+OUTPUT=`./xkblayout-state`
+# echo "${OUTPUT}"
+echo "test $OUTPUT"
+# echo `./xkblayout-state`;
